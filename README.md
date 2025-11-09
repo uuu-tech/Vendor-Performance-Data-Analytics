@@ -1,4 +1,4 @@
-### Vendor-Performance-Data-Analytics
+# Vendor-Performance-Data-Analytics
 
 
 This project is an end-to-end case study on vendor performance analytics.
